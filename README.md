@@ -5,4 +5,5 @@ Day 19 - More Turtle Graphics, Event Listeners, State and Multiple Instances
 
 Specific (and short) notes and titles written in main.py. 
   Unfinished practice (17/01/2024); update tomorrow.
+  Finished practice (18/01/2024); updated.
   
